@@ -4,9 +4,9 @@
 
 Desenvolvedor Full Stack com foco em Front-end | Recife - PE  
 
-Atualmente participante do programa **Hackers do Bem** e aluno da **Ctrl+Play**.  
+Atualmente participante do programa **Hackers do Bem**, onde estou me especializando em **Cibersegurança**, e também aluno da **Ctrl+Play**.  
 
-Interesse especial em desenvolvimento Front-end, com conhecimentos também em tecnologias Full Stack.  
+Interesse especial em desenvolvimento Front-end e segurança da informação, com conhecimentos também em tecnologias Full Stack.  
 
 Em constante evolução e aberto a oportunidades na área de tecnologia.
 
@@ -92,13 +92,6 @@ Em constante evolução e aberto a oportunidades na área de tecnologia.
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=kayoxs11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_title=true" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxs11&theme=tokyonight&layout=compact&langs_count=8&hide_title=true" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayoxs11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxs11&theme=tokyonight&layout=compact&langs_count=8)
