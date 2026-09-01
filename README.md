@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack com foco em Front-end | Recife - PE  
 
-Atualmente participante do programa **Hackers do Bem**, onde estou me especializando em **Cibersegurança**, e também aluno da **Ctrl+Play**.  
+Atualmente participante do programa **Hackers do Bem**, onde estou me especializando em Cibersegurança, e também aluno da **Ctrl+Play**.  
 
 Interesse especial em desenvolvimento Front-end e **Cibersegurança**, com conhecimentos também em tecnologias Full Stack.  
 
