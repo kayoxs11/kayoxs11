@@ -4,9 +4,9 @@
 
 Desenvolvedor Full Stack com foco em Front-end | Recife - PE  
 
-Atualmente participante do programa **Hackers do Bem**, onde estou me especializando em Cibersegurança, e também aluno da **Ctrl+Play**.  
+Atualmente participante do programa **Hackers do Bem**, onde estou me especializando em **Cibersegurança**, e também aluno da **Ctrl+Play**.  
 
-Interesse especial em desenvolvimento Front-end e **Cibersegurança**, com conhecimentos também em tecnologias Full Stack.  
+Interesse especial em desenvolvimento Front-end e **Cibersegurança**, com conhecimentos também em tecnologias Full Stack e projetos com **Arduino (C++)**.  
 
 Em constante evolução e aberto a oportunidades na área de tecnologia.
 
@@ -80,6 +80,14 @@ Em constante evolução e aberto a oportunidades na área de tecnologia.
 />
 <img 
     align="left" 
+    alt="C++"
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -94,9 +102,9 @@ Em constante evolução e aberto a oportunidades na área de tecnologia.
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=kayoxs11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_title=false" 
+  src="https://github-readme-stats.vercel.app/api?username=kayoxs11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
 />
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxs11&theme=tokyonight&layout=compact&langs_count=8&hide_title=false" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxs11&theme=tokyonight&layout=compact&langs_count=8" 
 />
